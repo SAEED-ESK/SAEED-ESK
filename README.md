@@ -1,4 +1,7 @@
-### Hi there 👋
+# Beginner Backend Developer
+
+# Skills
+Python, Django, Git
 
 <!--
 **SAEED-ESK/SAEED-ESK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
